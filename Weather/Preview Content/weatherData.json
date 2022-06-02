@@ -1,0 +1,43 @@
+{
+   "coord":{
+      "lon":-118.2437,
+      "lat":34.0522
+   },
+   "weather":[
+      {
+         "id":721,
+         "main":"Haze",
+         "description":"haze",
+         "icon":"50d"
+      }
+   ],
+   "base":"stations",
+   "main":{
+      "temp":20.72,
+      "feels_like":20.65,
+      "temp_min":17.2,
+      "temp_max":26.13,
+      "pressure":1012,
+      "humidity":69
+   },
+   "visibility":10000,
+   "wind":{
+      "speed":2.06,
+      "deg":160
+   },
+   "clouds":{
+      "all":40
+   },
+   "dt":1654188186,
+   "sys":{
+      "type":1,
+      "id":3694,
+      "country":"US",
+      "sunrise":1654173752,
+      "sunset":1654225188
+   },
+   "timezone":-25200,
+   "id":5368361,
+   "name":"Los Angeles",
+   "cod":200
+}
